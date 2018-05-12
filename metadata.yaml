@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Manfred_von_Richthofen
     - http://de.wikipedia.org/wiki/Manfred_von_Richthofen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24572#Der-rote-Kampfflieger
 gutenberg_bookshelf:
 - DE Prosa
 - DE Sachbuch
